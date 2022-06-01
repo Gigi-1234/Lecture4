@@ -1,3 +1,116 @@
-h2 {
-	color: blue;
+/* Start styling for first 
+page header */
+
+body {
+	margin-left: 30px;
+	margin-right: 30px;
 }
+
+header {
+	margin-bottom: 50px;
+}
+
+.html-logo {
+	margin-right: 50px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+li {
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.active {
+	color: #EE4036;
+}
+
+.passive {
+	color: #3D58A6;
+}
+
+/*end of first page header*/
+
+/* start of first page 
+section */
+
+article {
+	margin-bottom: 40px;
+}
+
+.p27 {
+	color: white;
+	background-color: #3D58A6;
+	width: 56px;
+	height: 54px;
+	font-size: 48px;
+	margin-bottom: 3px;
+}
+
+.may {
+	font-size: 22px;
+	color: #3D58A6;
+	margin-bottom: 22px;
+}
+
+.article-h3 {
+	font-size: 20px;
+	margin-bottom: 16px;
+}
+
+.article-img {
+	vertical-align: top;
+}
+
+.text {
+	display: inline-block;
+	width: 900px;
+	margin-left: 40px;
+	vertical-align: top;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+/* end of first page section styling */
+
+/* start of first page footer styling */
+
+footer {
+	margin-bottom: 26px;
+}
+
+.fb-logo {
+	margin-right: 30px;
+}
+
+.blueline {
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+	margin-right: 30px;
+
+}
+
+
+/* end of first page footer styling */
+
+
+
+
+
+
+
+
+
+
+
+
